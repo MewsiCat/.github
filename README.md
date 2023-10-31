@@ -1,2 +1,0 @@
-# Meow
-A musical cat?!
